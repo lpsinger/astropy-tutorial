@@ -1,5 +1,5 @@
-astroplan
 astropy
+astroquery
 matplotlib
 numpy
 scipy
